@@ -29,7 +29,7 @@ int main(int argc, char* argv[])
 
 	IPaddress ip; // creating Ip address
 
-	if (SDLNet_ResolveHost(&ip, "www.facebook.com", 80) == -1) ///Passing the ip address
+	if (SDLNet_ResolveHost(&ip, "www.google.com", 80) == -1) ///Passing the ip address
 
 	{
 		std::cout << "Error connecting to website" << std::endl;
