@@ -1,2 +1,7 @@
 
-.vs/ChatApp/v16/
+.vs/
+ChatApp/Debug/
+ChatApp/Release/
+Debug/
+Release/
+
